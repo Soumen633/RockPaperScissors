@@ -31,16 +31,6 @@ A visually appealing and interactive **Rock Paper Scissors** game built using **
 3. Winner is determined and shown
 4. Scores are updated
 
-## &#128193; Project Structure
-📁 rock-paper-scissors/
-├── index.html # Game UI
-├── style.css # Animations and layout
-├── app.js # Game mechanics
-└── images/
-├── rock.png
-├── paper.png
-└── scissors.png
-
 ## &#9881;&#65039; How to Run
 ```bash
 git clone https://github.com/your-username/rock-paper-scissors-game.git
