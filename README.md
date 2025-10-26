@@ -4,7 +4,7 @@ A visually stunning, interactive Rock Paper Scissors game built with vanilla HTM
 
 
 ---
-assets/banner.jpg
+[assets/banner.jpg]
 
 ## 🌟 Features
 
