@@ -1,10 +1,16 @@
+<div align="center">
+
 # Rock Paper Scissors Game 🎮
+
+![Rock Paper Scissors Banner](./images/banner.jpg)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 A visually stunning, interactive Rock Paper Scissors game built with vanilla HTML, CSS, and JavaScript. Features beautiful animations, responsive design, and an intuitive user interface.
 
-
----
-[assets/banner.jpg]
+</div>
 
 ## 🌟 Features
 
@@ -210,7 +216,6 @@ Contributions are welcome! Feel free to:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 ## 👤 Author
 
